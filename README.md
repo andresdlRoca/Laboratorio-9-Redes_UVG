@@ -10,6 +10,8 @@ Laboratorio 9 de Redes, UVG 2023
 - time
 - random
 - confluent_kafka
+- kafka
+- matplotlib
 
 ## Ejecución
 En terminal ejecutar:
